@@ -9,14 +9,14 @@
 
 <script>
   //function constructor
-function Person(name, clas, course) {
+function student(name, clas, course) {
   this.Name = name;
   this.class= clas;
   this.Course = course;
   
 }
 
-Person.prototype.display = function() {
+student.prototype.display = function() {
   return this.Name + " " + this.class+" "+this.Course
 };
 
