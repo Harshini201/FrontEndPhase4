@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Objects</h2>
+<h2>prototype is inbuilt functionality. whenever a function is created , 
+  js adds a prototype property to that function. prototype is an object. it helps to add variables and methods to an existing object </h2>
+<p id="demo"></p>
+
+<script>
+  //function constructor
+function student(name, clas, course) {
+  this.Name = name;
+  this.class= clas;
+  this.Course = course;
+  
+}
+
+student.prototype.display = function() {
+  return this.Name + " " + this.class+" "+this.Course
+};
+
+const data = new Person("John",  5, "Js");
+document.getElementById("demo").innerHTML ="Information " + data.display(); 
+</script>
+
+</body>
+</html>
