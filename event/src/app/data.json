@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "harshini",
+      "lastName": "A",
+      "emailId":"harshini@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "hamsa",
+      "lastName": "GS",
+      "emailId": "ha@gmail.com"
+    },
+    {
+      "firstName": "Shri",
+      "lastName": "Saran",
+      "emailId": "shri00@gmail.com",
+      "id": 3
+    }
+  ]
+}
