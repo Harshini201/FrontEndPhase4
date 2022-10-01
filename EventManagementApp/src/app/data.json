@@ -4,13 +4,13 @@
       "id": 1,
       "firstName": "Hamsavarthini",
       "lastName": "G S",
-      "emailId": "hamsavarthini@gmail.com"
+      "emailId": "hamsa@gmail.com"
     },
     {
       "id": 2,
       "firstName": "Madhu",
-      "lastName": "priya",
-      "emailId": "Madhupriya@gmail.com"
+      "lastName": "A",
+      "emailId": "Madhu@gmail.com"
     },
     {
       "firstName": "Logachini",
@@ -20,15 +20,9 @@
     },
     {
       "firstName": "Keerthana",
-      "lastName": "s",
+      "lastName": "R",
       "emailId": "Keerthu@gmail.com",
       "id": 4
-    },
-    {
-      "firstName": "Pavithra",
-      "lastName": "T",
-      "emailId": "pavi@gmail.com",
-      "id": 5
     }
   ]
 }
